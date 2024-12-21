@@ -1,0 +1,28 @@
+{
+    "name": "priority-pub-sub",
+    "version": "1.0.0",
+    "description": "A simple priority-based pub-sub system for beginners.",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "pubsub",
+        "message-broker",
+        "priority-queue",
+        "typescript"
+    ],
+    "author": "Shivam Mishra",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.10.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.7.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ShivamMishra828/priority-pubsub.git"
+    },
+    "readme": "README.md"
+}
