@@ -7,11 +7,11 @@ A simple, beginner-friendly, priority-based pub-sub system for message managemen
 Install the package using pnpm, npm or yarn:
 
 ```bash
-pnpm add priority-pubsub
+pnpm add priority-queue-pubsub
 # or
-npm install priority-pubsub
+npm install priority-queue-pubsub
 # or
-yarn add priority-pubsub
+yarn add priority-queue-pubsub
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ yarn add priority-pubsub
 ### Example
 
 ```ts
-import { Broker, Publisher, Subscriber } from "priority-pubsub";
+import { Broker, Publisher, Subscriber } from "priority-queue-pubsub";
 
 const broker = new Broker();
 const publisher = new Publisher(broker);
