@@ -1,5 +1,5 @@
 {
-    "name": "priority-pub-sub",
+    "name": "priority-pubsub",
     "version": "1.0.0",
     "description": "A simple priority-based pub-sub system for beginners.",
     "main": "./dist/index.js",
