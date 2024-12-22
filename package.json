@@ -1,6 +1,6 @@
 {
     "name": "priority-queue-pubsub",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple priority-based pub-sub system for beginners.",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
